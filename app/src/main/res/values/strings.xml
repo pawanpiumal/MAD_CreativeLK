@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Creative.lk</string>
+    <string name="addartist">Add Artist</string>
+    <string name="addphoto">Add Photograph</string>
+    <string name="delete">Delete Artist / Photograph</string>
+    <string name="viewphotolist">View Photograph List</string>
+    <string name="artistName">Artist Name</string>
+    <string name="Photoname">Photo Name</string>
+    <string name="Photocategory">Photo Category</string>
+    <string name="Photograph">Photograph</string>
+    <string name="deletePhoto">Delete Photo</string>
+    <string name="Deleteartist">Delete Artist</string>
+    <string name="search">Search</string>
+</resources>
